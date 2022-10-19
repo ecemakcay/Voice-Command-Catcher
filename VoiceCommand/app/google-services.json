@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148371679378",
+    "project_id": "voice-command-8283b",
+    "storage_bucket": "voice-command-8283b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148371679378:android:449fbc9bf44f344462de4b",
+        "android_client_info": {
+          "package_name": "com.ecemakcay.voicecommand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148371679378-6qlpgfosi7880j687livqsrp9agecm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzY1FtKOdnUHTVdhkXrxVMggHsfCmU3_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148371679378-6qlpgfosi7880j687livqsrp9agecm53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
